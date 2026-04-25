@@ -1,6 +1,4 @@
 # DevOps Notes
 
-Project URL: https://github.com/kreker1917/devops-notes
-
-https://github.com/kreker1917/devops-notes
+Project URL: https://roadmap.sh/projects/basic-dockerfile
 
